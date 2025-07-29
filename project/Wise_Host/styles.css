@@ -60,30 +60,29 @@ nav {
 
 .default-btn {
 	padding: 15px 20px;
-	background-color: #2CC76A;
+	background-color: red;
 	border-radius: 5px;
 	color: #FFF;
 }
 
 .default-btn:hover {
-	background-color: #22BB5F;
+	background-color: red;
 	color: #FFF;
 }
 
 /* main banner */
 
 .main-banner {
-	background-image: url('img/mainbanner.png');
-	background-position: center;
-	background-size: cover;
-	padding: 10em 0;
+	background: url('img/mainbanner.jpg') center/cover no-repeat;
+	padding: 15em 0;
 	position: relative;
 }
 
 .main-banner h1, .main-banner p {
-	color: #FFF;
+	color: #000000e3;
 	text-align: center;
-	font-weight: bold;
+	font-weight: bolder;
+	text-transform: uppercase;
 }
 
 .main-banner h1 {
@@ -192,7 +191,7 @@ nav {
 	width: 120px;
 	height: 120px;
 	border-radius: 50%;
-	background-color: #2cc76a;
+	background-color: lightblue;
 	color: #FFF;
 	text-align: center;
 	line-height: 120px;
@@ -214,7 +213,7 @@ nav {
 }
 
 .plan .plan-btn {
-	background-color: #2cc76a;
+	background-color: lightblue;
 	color: #FFF;
 	font-size: 24px;
 	height: 75px;
@@ -223,7 +222,7 @@ nav {
 }
 
 .plan .recommended {
-	background-color: #f45c57;
+	background-color: red;
 }
 
 /* buscar dominio */
@@ -264,7 +263,7 @@ nav {
 }
 
 .searchdomain-container input[type=submit] {
-	background-color: #2cc76a;
+	background-color: red;
 	padding: 15px 30px;
 	color: #FFF;
 	font-size: 24px;
@@ -312,7 +311,7 @@ nav {
 	position: relative;
 	margin-left: auto;
 	margin-right: auto;
-	background-color: #2cc76a;
+	background-color: red;
 	color: #FFF;
 }
 
