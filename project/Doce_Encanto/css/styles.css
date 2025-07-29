@@ -15,7 +15,7 @@ a {
 	position: fixed;
 	height: 100%;
 	width: 300px;
-	background-color: #006599;
+	background-color: #9c6b01;
 	padding-top: 40px;
 }
 
@@ -66,7 +66,7 @@ a {
 }
 
 .content h1, .content h2 {
-	color: #006599;
+	color: #9c6b01;
 	margin-bottom: 30px;
 }
 
@@ -133,7 +133,7 @@ section {
 }
 
 .sessao-bemvindo-btn, form input[type=submit] {
-	background-color: #006599;
+	background-color: #9c6b01;
 	color: #FFF;
 	text-decoration: none;
 	padding: 20px 40px;
@@ -147,7 +147,7 @@ section {
 }
 
 .sessao-bemvindo-btn:hover, form input[type=submit]:hover {
-	background-color: #2790C6;
+	background-color: #8a5e01;
 }
 
 /* sessao sobre */
@@ -258,7 +258,7 @@ section {
 
 #form-contato input[type=text], #form-contato input[type=email], #form-contato textarea {
 	display: block;
-	border: 1px solid #006599;
+	border: 1px solid #9c6b01;
 	padding: 10px;
 	margin-bottom: 20px;
 	width: 100%;
@@ -267,7 +267,7 @@ section {
 }
 
 #form-contato input[type=text]:focus, #form-contato input[type=email]:focus, #form-contato textarea:focus {
-	border-color: #2790C6;
+	border-color: #8a5e01;
 }
 
 #form-contato textarea {
@@ -275,7 +275,7 @@ section {
 }
 
 #form-contato ::placeholder {
-	color: #2790C6;
+	color: #8a5e01;
 }
 
 #form-contato input[type=submit] {
@@ -289,7 +289,7 @@ section {
 footer {
 	height: 100px;
 	padding-top: 150px;
-	color: #006599;
+	color: #8a5e01;
 }
 
 footer p {
